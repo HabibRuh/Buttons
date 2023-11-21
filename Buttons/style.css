@@ -1,0 +1,94 @@
+
+.first-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.uber {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: black;
+}
+
+.amazon {
+    color: black;
+    background-color: yellow;
+    border: 1px solid yellow;
+    padding: 10px 70px;
+    border-radius: 20px;
+}
+
+.github {
+    color: white;
+    background-color: rgb(12, 203, 12);
+    padding: 10px 40px;
+    border: 1px ;
+    border-radius: 5px;
+}
+
+.second-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.linkedin {
+    color: white;
+    background-color: rgb(35, 35, 97);
+    border: rgb(35, 35, 97);
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+
+.save {
+    border: 2px solid grey;
+    padding: 3px 15px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.bootstrap {
+    color: white;
+    background-color: purple;
+    border: purple;
+    padding: 5px 15px;
+}
+
+.download {
+    background-color: white;
+    border: 2px solid grey;
+    padding: 3px 15px;
+    border-radius: 3px;
+}
+
+.third-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.daraz {
+    color: white;
+    background-color: red;
+    border: red;
+    border-radius: 3px;
+    padding: 3px 8px;
+}
+
+.bikroy {
+    color: black;
+    background-color: gold;
+    border: gold;
+    padding: 8px 15px;
+}
+
+.sample {
+    color: white;
+    background-color: blueviolet;
+    padding: 10px 40px;
+    border: 6px solid rgb(232, 225, 225);
+    border-radius: 30px;
+}
+
